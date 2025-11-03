@@ -1,2 +1,11 @@
-images: []
+images:
+- added: '2025-11-03 20:21:01.763532'
+  iiif: true
+  thumbnail: ''
+  title:
+  - en:
+    - Resources with Animals
+  url: https://iiif-set-creator.fly.dev/sets/resources-with-animals/collection.json
+  user: Trey Pendragon
 settings: {}
+version: '2.1'
